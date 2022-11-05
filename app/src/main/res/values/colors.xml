@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="violet">#7617FF</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="sky_blue">#5FD6DA</color>
+    <color name="header_color">#2B789C</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="primary">#FF7700</color>
+    <color name="red">#FF0000</color>
+    <color name="primary_2nd">#FFB84D</color>
+    <color name="primary_3rd">#FFE790</color>
+    <color name="primary_4th">#FFF4F7</color>
+    <color name="ScreenBackground">#FFFCFC</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_2nd">#E6E6E6</color>
+    <color name="text_black">#00134D</color>
+    <color name="text_blue">#0072FF</color>
+    <color name="colorGrey">#dddddd</color>
+    <color name="text_navy_blue">#002D65</color>
+    <color name="text_black_2nd">#12244E</color>
+    <color name="text_black_3rd">#2F3E5C</color>
+    <color name="text_black_4th">#b2b2b2</color>
+    <color name="text_black_5th">#E1E1E1</color>
+    <color name="green">#01F819</color>
+    <color name="colorDividerview">#ECECEC</color>
+    <color name="shimmer_color">#FFEEF2</color>
+    <color name="ucrop_color_toolbar">@color/white</color>
+    <color name="ucrop_color_statusbar">@color/primary</color>
+    <color name="ucrop_color_widget_active">@color/primary</color>
+</resources>

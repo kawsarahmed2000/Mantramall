@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_250sdp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:background="@drawable/btn_background_gradient"
+    android:backgroundTint="@color/white"
+    android:gravity="center|top"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/headerTVDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_background_gradient"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/lato_bold"
+        android:gravity="center"
+        android:letterSpacing="0.1"
+        android:paddingTop="@dimen/_15sdp"
+        android:paddingBottom="@dimen/_15sdp"
+        android:text="Terms and conditions"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13ssp" />
+
+    <TextView
+        android:id="@+id/messageDialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:fontFamily="@font/lato_bold"
+        android:gravity="center"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingBottom="@dimen/_10sdp"
+        android:text="This game involve an element of finalcial risk and may be addictive please play responsibly and at your own risk"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp" />
+
+    <TextView
+        android:id="@+id/actionBtnDialog"
+        android:layout_width="@dimen/_120sdp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:background="@drawable/btn_rounded_background_gradient"
+        android:backgroundTint="@color/black"
+        android:fontFamily="@font/lato_bold"
+        android:gravity="center"
+        android:paddingTop="@dimen/_5sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:text="okay"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13ssp" />
+
+
+</LinearLayout>

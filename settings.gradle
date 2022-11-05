@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        jcenter()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+//        maven { url 'https://dl.bintray.com/amulyakhare/maven' }
+    }
+}
+rootProject.name = "Mantramall"
+include ':app'
